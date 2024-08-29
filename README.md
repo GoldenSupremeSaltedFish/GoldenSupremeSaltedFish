@@ -5,7 +5,7 @@
 
 - Java ❤
 - HTML & CSS & Vue
-- NodeJS & Express
+- NodeJS 
 - C++
 - Python
 - SpringCloud
