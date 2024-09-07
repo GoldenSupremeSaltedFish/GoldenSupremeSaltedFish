@@ -12,7 +12,7 @@
 - Docker
 - k8s
 
-### 👧 a little about myself:
+###  a little about myself:
 
 - I'm a little too addicted to coffee.
 
