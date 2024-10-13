@@ -14,7 +14,7 @@
 
 ###  a little about myself:
 
-- I'm a little too addicted to coffee.
+- Coffee lovers, and people who love all things new
 
 <h1 align="center">
 
